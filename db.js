@@ -3,8 +3,8 @@ const { Pool } = pkg; // Extrae el Pool del paquete
 
 const pool = new Pool({
     user: 'citus',
-    host: 'c-prueba-comos-db.xhlogfjfk4kao6.postgres.cosmos.azure.com',
-    database: 'citus',
+    host: 'prueba-db-chaostoolkit.postgres.database.azure.com',
+    database: 'postgres',
     password: 'Prueba1234.',
     port: 5432,
     ssl: {
