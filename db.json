@@ -1,0 +1,67 @@
+{
+    "Productos":[
+        {
+            "id_Producto": 1,
+            "IMG_Producto": "https://i.postimg.cc/5N6Fnrxf/1.png",
+            "Nombre_Producto": "Bujías de Alto Rendimiento",
+            "Descripcion": "Nuestras bujías de alto rendimiento están diseñadas para optimizar el funcionamiento de tu motor, garantizando arranques rápidos y una combustión eficiente.",
+            "Precio":150000
+        },
+        {
+            "id_Producto": 2,
+            "IMG_Producto": "https://i.postimg.cc/brH8Tpsm/2.png",
+            "Nombre_Producto": "Rin 18 Para Mazda",
+            "Descripcion": "RIN 18 COLOR DARK GUN METAL MACHINE FACE - Juego de rines de lujo por 4 Unidades.",
+            "Precio":2000000
+        },
+        {
+            "id_Producto": 3,
+            "IMG_Producto": "https://i.postimg.cc/2S2zBkZG/2.png",
+            "Nombre_Producto": "Volante universal de carreras",
+            "Descripcion": "Volante universal de carreras tira roja de PVC soporte de aluminio volante deportivo con botón.",
+            "Precio":250000
+        },
+        {
+            "id_Producto": 4,
+            "IMG_Producto": "https://i.postimg.cc/bN9kGnNt/4.png",
+            "Nombre_Producto": "Llanta Hankook Klnergy ST (H735) 175/70r13t",
+            "Descripcion": "La Llanta Hankook Klnergy St Es Un Neumático Tipo Turismo Estandar Para Toda Temporada.",
+            "Precio":1600000
+        },
+        {
+            "id_Producto": 5,
+            "IMG_Producto": "https://i.postimg.cc/2j4BJWWK/5.png",
+            "Nombre_Producto": "Kit de rotor de freno de disco y almohadilla",
+            "Descripcion": "Kit de rotor de freno de disco y almohadilla de cerámica con ranura perforada recubierta para Porsche Cayenne.",
+            "Precio":2800000
+        },
+        {
+            "id_Producto": 6,
+            "IMG_Producto": "https://i.postimg.cc/Twhvbn6Y/6.png",
+            "Nombre_Producto": "Defensa Trasera Nissan Frontier D21",
+            "Descripcion": "Defensa Trasera Nissan Frontier D21 Cromado Taiwan , una pieza de calidad diseñada especialmente para tu vehículo.",
+            "Precio":980000
+        },
+        {
+            "id_Producto": 7,
+            "IMG_Producto": "https://i.postimg.cc/fy942ZyG/7.png",
+            "Nombre_Producto": "Pastillas Frenos Nissan Qashqai",
+            "Descripcion": "Pastillas Frenos Nissan Qashqai 1.6 2.0 2WD Delanteras.",
+            "Precio":220000
+        },
+        {
+            "id_Producto": 8,
+            "IMG_Producto": "https://i.postimg.cc/kM6B3bbm/8.png",
+            "Nombre_Producto": "Correa Accesorios Ford Fiesta 2014 /2019",
+            "Descripcion": "Correa de accesorios elástica Ford Fiesta Se / Titanium Marca: Continental.",
+            "Precio":180000
+        },
+        {
+            "id_Producto": 9,
+            "IMG_Producto": "https://i.postimg.cc/htgjdZ3D/9.png",
+            "Nombre_Producto": "Correa De Repartición",
+            "Descripcion": "Correa De Repartición OE Technology Series Multi-V Belt.",
+            "Precio":220000
+        }
+    ]
+}
